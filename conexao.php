@@ -71,8 +71,8 @@
             $this->user = $user;
         }
         
-        public function setUser($user){
-            $this->user = $user;
+        public function setUser($senha){
+            $this->senha = $senha;
         }
         
         public function getSim(){
