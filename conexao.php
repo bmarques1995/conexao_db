@@ -71,7 +71,7 @@
             $this->user = $user;
         }
         
-        public function setUser($senha){
+        public function setSenha($senha){
             $this->senha = $senha;
         }
         
