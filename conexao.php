@@ -71,8 +71,8 @@
             $this->user = $user;
         }
         
-        public function setHost($host){
-            $this->host = $host;
+        public function setUser($user){
+            $this->user = $user;
         }
         
         public function getSim(){
